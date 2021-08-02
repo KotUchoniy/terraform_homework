@@ -1,0 +1,5 @@
+zone = "zone"
+cloud_id = "cloud_id"
+folder_id = "folder_id"
+image_id = "image_id"
+yc_token = "token"
