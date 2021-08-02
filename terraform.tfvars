@@ -1,5 +1,5 @@
 zone = "zone"
 cloud_id = "cloud_id"
 folder_id = "folder_id"
-image_id = "image_id"
+image_id = "fd83klic6c8gfgi40urb"
 yc_token = "token"
